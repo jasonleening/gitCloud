@@ -4,11 +4,4 @@
 
 create new branch is simple & easy
 
-
-easy
-
-dev test
-
-
-devchanged
-
+master changed later , master is right;
