@@ -7,4 +7,3 @@ create new branch is simple & easy
 
 master changed later , master is right;
 
-bug已修改
